@@ -1,16 +1,11 @@
-# first_app
+Flutter Dice Roller
+A simple, six-sided dice (d6) roller application built using Flutter. 
 
-A new Flutter project.
+Features
+One-Tap Roll: Instantly generates a random result from 1 to 6 with a single button tap.
+Clean UI: Minimalist and intuitive user interface optimized for mobile devices.
+Simple State Management: Uses basic setState for reactive UI updates.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technology Stack
+Framework: Flutter
+Language: Dart
